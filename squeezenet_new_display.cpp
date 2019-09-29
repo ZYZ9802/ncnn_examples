@@ -1,3 +1,4 @@
+//refer to official demo,add load_labels to display classification
 #include <stdio.h>
 #include <algorithm>
 #include <vector>
